@@ -1,0 +1,10 @@
+{
+  "appId": "com.recipes.io.thethings",
+  "appName": "ionic-angular-course",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "url": "http://localhost:8100"
+  }
+}
